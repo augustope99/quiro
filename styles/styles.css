@@ -135,7 +135,7 @@ p {
   border-radius: 50rem;
 }
 .menu--mobile {
-  width: 100vw;
+  width: 100%;
   position: fixed;
   bottom: 0;
   justify-content: space-between;
